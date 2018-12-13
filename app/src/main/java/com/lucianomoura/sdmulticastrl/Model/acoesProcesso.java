@@ -1,6 +1,7 @@
 package com.lucianomoura.sdmulticastrl.Model;
 
-import com.lucianomoura.sdmulticastrl.Model.Processo;
+import com.lucianomoura.sdmulticastrl.old.Mensagem;
+import com.lucianomoura.sdmulticastrl.old.Processo;
 
 public interface acoesProcesso {
 
